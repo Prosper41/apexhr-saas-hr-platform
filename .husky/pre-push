@@ -1,0 +1,7 @@
+echo "Ì¥ç Running ESLint..."
+npx eslint . --ext .js,.ts,.jsx,.tsx --max-warnings=0
+
+echo "Ì≤Ö Checking Prettier formatting..."
+npx prettier --check .
+
+echo "‚úÖ All checks passed!"
