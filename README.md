@@ -2,6 +2,10 @@
 
 > **Version:** 1.0 — Phase 1 MVP | **Status:** In Development | **Last Updated:** February 2026
 
+ApexHR is a full-stack HR management platform. This repository contains the frontend.
+
+🔗 **Backend API:** [View the NestJS backend repository](https://github.com/Prosper41/apex-hr-backend)
+
 ApexHR is a multi-tenant SaaS HRMS built for SMBs (50–1,000 employees). This document covers **Phase 1** of the MVP, which includes:
 
 - Multi-tenant Authentication
